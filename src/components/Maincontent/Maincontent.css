@@ -1,0 +1,33 @@
+#mainContent{
+    display: block;
+
+    width: 78%;
+    float:right;
+    
+    border: 1px solid #eee;
+    border-radius: 10px;
+    box-shadow: 0px 2px 3px #ccc;
+    margin-bottom:10px;
+    box-sizing: border-box;
+    background-color: #edeceb;
+}
+
+.button_Bottom{
+    height: 40px;
+    background-color:#fff;
+    box-shadow: 1px solid #fff;
+    margin: 5px;
+
+}
+
+.deleteButton{
+    display: block;
+    float:left;
+
+}
+
+.addbutton{
+    display: block;
+    float: right;
+
+}
