@@ -1,0 +1,53 @@
+.navBar {
+    border: 1px solid #eee;
+    border-radius: 10px;
+    box-shadow: 0px 2px 3px #ccc;
+    margin-bottom:10px;
+    box-sizing: border-box;
+    cursor: pointer;
+    background-color: #edeceb;
+    padding: 15px 5px 15px 5px;
+
+}
+
+
+.recordInfo {
+    
+    display: inline-block;
+
+    
+    padding: 5px 10px 5px 10px;
+    
+
+    background-color: #ffffff;
+    margin:0px 0px 5px 0px;
+    border: 1px solid rgb(165, 40, 17);
+    border-radius: 5px;
+   
+    box-shadow: 0px 2px 3px rgb(230, 181, 181);
+    box-sizing: border-box;
+}
+
+.recordInfo:hover{
+    background-color: #ffffff;
+    margin:0px 0px 5px 0px;
+    border: 1px solid #000;
+    border-radius: 5px;
+   
+    box-shadow: 0px 2px 3px rgb(131, 122, 122);
+    box-sizing: border-box;
+}
+
+#topMenu{
+    margin-left:20px;
+}
+#topMenu li{
+    float:left;
+    display: inline-block;
+    padding: 5px 10px 5px 10px;
+    margin-right: 10px;
+
+}
+.topMenu, li:hover{
+    background-color: ##e0e0e0;
+}
